@@ -2,7 +2,7 @@
 
 ## 12-hour Challenge form last week.
 
- ![](1220%hrs.jpg)
+ ![](https://github.com/ShuchenWuu/Slave-to-algorithm/blob/master/week%202/12%20hrs.jpg)
 
 “What is the algorithm? It is an instruction, a calculation, a program. For our daily exercise, like cooking is an algorithm executed by humans.”
 So does painting and drawing.
