@@ -45,6 +45,8 @@ It seems like I got a strong preference at a very early stage. I think for my pr
 
 The concept comes from recent news claiming that the suicide rate is predicted to increase (25 per cent more suicide deaths annually) because of COV 19. And I believe art can help, from the practice field there is art therapy for depressions. I found there is a Chinese artist/academic had similar research in 2008. His approach is writing down the “where is the capital city of Madagascar” on the famous suicide bridge in Nanjing. The fact is it does help; there are many lives that he saved, sending him a letter of thank. So what I am trying to do is an interactive installation which can draw people’s attention and bring them back from the dead-end from their perspective. 
 
+Inspired by this sketch, I could create an algorithm that could let people and the background come together little by little (by pixel).
+https://www.openprocessing.org/sketch/143842 
 
 
 
