@@ -1,9 +1,8 @@
-WEEK 3 SKO
+# WEEK 3 SKO
 
 In week 3 class, I have a further understanding of drawing machines (a machine who does not need code, just a touch of nature). From 1922 we had the first reading machine till today, so many exciting work have been done. It is excellent to look at these art throughs, especially mosquito-translator. I was attracted by the appearance of this installation, curious about how it works. And after reading through the meaning behind it, I was shocked by what it is representing. For the Anthropocentrism, I would only think about it when there is a conflict of human are slaving robots (like senses in Blade Runner), but it could also about all the non-human creatures like mosquitos. How human going to feel what they feel.
 
 I saw the possibility of drawing machines; a pen/pint could be motivated by anything, like wind, birds, a bubble with charcoal pencil.
-
 
 
 Mosquito-translator
@@ -38,7 +37,7 @@ The concept comes from recent news claiming that the suicide rate is predicted t
 
 
 
-In-Class activity
+## In-Class activity
 
 I have a chance to make my drawing machine.
 I did three trials.
