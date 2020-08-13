@@ -7,19 +7,28 @@ I saw the possibility of drawing machines; a pen/pint could be motivated by anyt
 
 Mosquito-translator
 https://nonhuman-nonsense.com/mosquito-translator
+
 Richard Dawson the tree drawings 
+
 Tim Knowles tree drawings
 http://www.timknowles.co.uk/Info/tabid/263/Default.aspx
+
 Eske Rex
 https://www.eskerex.com/?portfolio_page=drawingmachine-series
+
 Karina Smigla - Bobinski ADA
 https://www.smigla-bobinski.com/english/works/ADA/
+
 Joseph Griffiths drawing machine
 https://josephlgriffiths.com/drawingmachine1.html
+
 Robert Howsare
 http://roberthowsare.com/rational-aesthetics/drawing-apparatus/
+
 David Shingler bird drawing
+
 Margie Livingston
+
 In the afternoon class, we fill up 80 inputs and outputs with HOW, where some interesting ideas came.
 https://docs.google.com/spreadsheets/d/1UwME_mfZsiTCK6-8lqeTkOD9sEdyv_GaX-w5EOC6ytM/edit#gid=0
 
