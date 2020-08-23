@@ -12,10 +12,10 @@ Some work from class:
 I talk to Karen and Andy about my ideas of suicide intervention; the outcome could be an interactive installation standing on the bridge, try to distract people who want to suicide. I received feedback on different directions, Andy talks about insights of designing a system which can observe/analyse the pattern of behaviours. While Karen talks about how to solve this problem from identity/over-dependence on jobs, and ideas of an ongoing open-ended system.
 
 ## Advanced research possible
-IMAGE
+![](https://github.com/ShuchenWuu/Slave-to-algorithm/blob/master/week%204/Screen%20Shot%202020-08-21%20at%2019.46.04.png)
 
 I thought about changing ideas because the concept might be too big for me, and the design outcome can not solve the problem from multiple aspects. However, I did some research on other thoughts, and I came back to this idea in the end. Mental health and suicide is a huge topic, and they have so many branches. The installation that I came up with is like the very last step of suicide prevention, the idea might not go to solve the problem from the source, but it does save lives. And as I did the research, I found there are not many studies on this very last step. In Korea, there is a bridge with which warm greeting like “how are you today?”, “Why not hang out with friends?” On sides of the bridge. However, it might hurt people’s feeling somethings (it happens if this person does not have a friend). So I like the idea of coming up with something irrelevant with daily life, a simple art piece could help them get out a bit from their depressions/bad moods.
-IMAGE
+![](https://github.com/ShuchenWuu/Slave-to-algorithm/blob/master/week%204/public-drum_basic_article-101820-main_images-samsungLifeInsurance_BridgeOfLife_resized_0--2x1--940.jpg)
 
 But I could not figure out a feasible way of the distractions. It is about the last step of helping suicide people, so anything that will lead them to a wrong direction kills. And I feel like under pressure of going come to a proper solution.
 
@@ -27,7 +27,8 @@ https://woebothealth.com
 https://theinitium.com/article/20190702-mainland-ai-suicide-intervention/ 
 
 And VR helps with mood recovery, which reduces the feeling of suicide.
-IMAGE
+![](https://github.com/ShuchenWuu/Slave-to-algorithm/blob/master/week%204/191105-eotp_documentation-9685_1_0-2.jpg)
+![](https://github.com/ShuchenWuu/Slave-to-algorithm/blob/master/week%204/highresscreenshot00033-2.png)
 https://artdesign.unsw.edu.au/whats-on/news/virtual-reality-experience-which-improves-mood-be-used-suicide-prevention 
 
 I researched some amazing audio art design like Hate In-Situ, who explores patterns and forms of hate and anger through vocal expressions and generative design. Each audiovisual is an isolated artefact of hate and critical to the interpretation of the culture and experience of the people that formed it. I like his ideas of visualising sound as the shape of a CD.
