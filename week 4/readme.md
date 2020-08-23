@@ -32,5 +32,5 @@ And VR helps with mood recovery, which reduces the feeling of suicide.
 https://artdesign.unsw.edu.au/whats-on/news/virtual-reality-experience-which-improves-mood-be-used-suicide-prevention 
 
 I researched some amazing audio art design like Hate In-Situ, who explores patterns and forms of hate and anger through vocal expressions and generative design. Each audiovisual is an isolated artefact of hate and critical to the interpretation of the culture and experience of the people that formed it. I like his ideas of visualising sound as the shape of a CD.
-IMAGE
+![](https://github.com/ShuchenWuu/Slave-to-algorithm/blob/master/week%204/9baf642910ef3f92.jpg)
 https://www.youtube.com/watch?v=mMIHdtjvLhs 
