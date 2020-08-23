@@ -3,8 +3,10 @@
 This week we a step further with coding. We learned how to bring the image in and played around with pixel on the image. Besides, we know how to edit texts and typeface in java, as well as bring the camera in. (with using the camera in java, I tried with processing and p5.js web editor, none of them allows me to bring the camera in I think it might be because what Karen said that I have more than one camera so it will not work). 
 
 Some work from class:
-IMAGE
-
+![](https://github.com/ShuchenWuu/Slave-to-algorithm/blob/master/week%204/Screen%20Shot%202020-08-14%20at%2011.13.25.png)
+![](https://github.com/ShuchenWuu/Slave-to-algorithm/blob/master/week%204/Screen%20Shot%202020-08-14%20at%2013.18.31.png)
+![](https://github.com/ShuchenWuu/Slave-to-algorithm/blob/master/week%204/Screen%20Shot%202020-08-14%20at%2014.08.13.png)
+![](https://github.com/ShuchenWuu/Slave-to-algorithm/blob/master/week%204/Screen%20Shot%202020-08-14%20at%2014.50.29.png)
 
 ## In-class discussion
 I talk to Karen and Andy about my ideas of suicide intervention; the outcome could be an interactive installation standing on the bridge, try to distract people who want to suicide. I received feedback on different directions, Andy talks about insights of designing a system which can observe/analyse the pattern of behaviours. While Karen talks about how to solve this problem from identity/over-dependence on jobs, and ideas of an ongoing open-ended system.
