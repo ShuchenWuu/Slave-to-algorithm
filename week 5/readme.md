@@ -31,4 +31,4 @@ https://www.designboom.com/architecture/cosimo-scotucci-dynamic-model-for-social
 Rotterdam-based architect cosimo scotucci has envisioned a dynamic installation to ensure social distancing measures are adhered to. to be placed in front of rotterdam central station, ‘physx’ goes one step further than the static solutions we have already seen, such as circles marked on the grass in parks, or tape on supermarket floors so you know how much distance to keep. this proposal instead uses colored fibers that move as you do, all the while defining a safe zone of 1.5 meters. 
 
 ## Time table
-![]()
+![](https://github.com/ShuchenWuu/Slave-to-algorithm/blob/master/week%205/Screen%20Shot%202020-09-01%20at%2015.42.53.png)
