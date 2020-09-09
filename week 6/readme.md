@@ -14,4 +14,10 @@ I learn a new way of prototyping, which is more obvious for the designer to desi
 <br />
 <br />
 <br />
+## web & portfolio
+Some websites that I found very interesting from Karen’s list.
 
+Uncanny Valley Studios https://uncannyvalley.studio/
+Studio Wrk https://waaark.com/studio/
+
+Going through what other artists/students’ website, I found that it does not need to be very complicated, just some showcase work. With a bit of patience and some practice, I can make my own one day.
