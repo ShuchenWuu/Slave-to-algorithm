@@ -35,7 +35,7 @@ http://www.graffitiresearchlab.com/blog/
 
 (Mind=blown)
 Stranger Visions -- Heather Dewey-Hagborg
-![](https://github.com/ShuchenWuu/Slave-to-algorithm/blob/master/week%206/download.jpeg)
+![](https://github.com/ShuchenWuu/Slave-to-algorithm/blob/master/week%206/unadjustednonraw_thumb_4db.jpg)
 
 Artist Heather Dewey-Hagborg creates portrait sculptures from analyses of genetic material collected in public places. Working with the traces strangers unwittingly leave behind, Dewey-Hagborg calls attention to the developing technology of forensic DNA phenotyping and the potential for a culture of biological surveillance. Designed as an exploratory project based on emerging science, the forecast of Stranger Visions has proved prescient. For an example of DNA phenotyping at work in forensics check out the companies Parabon NanoLabs and Identitas and read about their collaboration with the Toronto police. Also see Mark Shriver's research at Penn State on predicting faces from DNA.
 http://deweyhagborg.com/_archived/strangervisions/about.html
