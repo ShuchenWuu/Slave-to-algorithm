@@ -8,15 +8,5 @@ Our group chooses a block-breaking game as an example. It is fun and fast; the i
 
 I learn a new way of prototyping, which is more obvious for the designer to design the journey of how the system interacts with users. Easy to make, clear to read, convenient to change.
 
-
-
-
-
-
-
-
-
-
-
-
-11
+I learn a new way of prototyping, which is more obvious for the designer to design the journey of how the system interacts with users. Easy to make, clear to read, convenient to change.
+I learn a new way of prototyping, which is more obvious for the designer to design the journey of how the system interacts with users. Easy to make, clear to read, convenient to change.
