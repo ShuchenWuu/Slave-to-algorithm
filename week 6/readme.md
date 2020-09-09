@@ -36,8 +36,14 @@ http://www.graffitiresearchlab.com/blog/
 (Mind=blown)
 Stranger Visions -- Heather Dewey-Hagborg
 ![](https://github.com/ShuchenWuu/Slave-to-algorithm/blob/master/week%206/unadjustednonraw_thumb_4db.jpg)
-< height="400" src="https://github.com/ShuchenWuu/Slave-to-algorithm/blob/master/week%206/unadjustednonraw_thumb_4db.jpg">
 
 Artist Heather Dewey-Hagborg creates portrait sculptures from analyses of genetic material collected in public places. Working with the traces strangers unwittingly leave behind, Dewey-Hagborg calls attention to the developing technology of forensic DNA phenotyping and the potential for a culture of biological surveillance. Designed as an exploratory project based on emerging science, the forecast of Stranger Visions has proved prescient. For an example of DNA phenotyping at work in forensics check out the companies Parabon NanoLabs and Identitas and read about their collaboration with the Toronto police. Also see Mark Shriver's research at Penn State on predicting faces from DNA.
 http://deweyhagborg.com/_archived/strangervisions/about.html
+
+
+The Unseen Movie (2010) -- Ricardo O'Nascimento
+Adding the "shut down" time to the 24 blinks per minute we can conclude that one has 1,2 seconds of blindness per minute which, in a 70 years life, is approximately 21 days with no vision.
+![](https://github.com/ShuchenWuu/Slave-to-algorithm/blob/master/week%206/download.jpeg)
+
+In front, a monitor the user watches a movie. A camera on the top of the monitor is connected to a computer that tracks the eyes and detects when they blink. Every time the user blinks the image that appears at that moment is broadcasted in another monitor in real time.
 
