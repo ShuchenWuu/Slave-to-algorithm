@@ -15,5 +15,3 @@ I learn a new way of prototyping, which is more obvious for the designer to desi
 <br />
 <br />
 
-I learn a new way of prototyping, which is more obvious for the designer to design the journey of how the system interacts with users. Easy to make, clear to read, convenient to change.
-I learn a new way of prototyping, which is more obvious for the designer to design the journey of how the system interacts with users. Easy to make, clear to read, convenient to change.
