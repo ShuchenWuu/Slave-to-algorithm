@@ -6,9 +6,10 @@
 
 Our group chooses a block-breaking game as an example. It is fun and fast; the interactive surface of the product could be visualized easily.
 
-I learn a new way of prototyping, which is more obvious for the designer to design the journey of how the system interacts with users. Easy to make, clear to read, convenient to change.
+I learn a new way of prototyping, which is more obvious for the designer to design the journey of how the system interacts with users. Easy to make, clear to read, convenient to change.<br />
 
 
 <br />
+<hr />
 I learn a new way of prototyping, which is more obvious for the designer to design the journey of how the system interacts with users. Easy to make, clear to read, convenient to change.
 I learn a new way of prototyping, which is more obvious for the designer to design the journey of how the system interacts with users. Easy to make, clear to read, convenient to change.
