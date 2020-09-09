@@ -29,6 +29,14 @@ Going through what other artists/students’ website, I found that it does not n
 
 EyeWriter - social design<br />
 ![](https://github.com/ShuchenWuu/Slave-to-algorithm/blob/master/week%206/download.jpeg)
+
 Members of Free Art and Technology (FAT), OpenFrameworks, the Graffiti Research Lab, and The Ebeling Group communities have teamed-up with a legendary LA graffiti writer, publisher and activist, named TEMPTONE. Tempt1 was diagnosed with ALS in 2003, a disease which has left him almost completely physically paralyzed… except for his eyes. This international team is working together to create a low-cost, open source eye-tracking system that will allow ALS patients to draw using just their eyes. The long-term goal is to create a professional/social network of software developers, hardware hackers, urban projection artists and ALS patients from around the world who are using local materials and open source research to creatively connect and make eye art.
 http://www.graffitiresearchlab.com/blog/
+
+(Mind=blown)
+Stranger Visions -- Heather Dewey-Hagborg
+![](https://github.com/ShuchenWuu/Slave-to-algorithm/blob/master/week%206/download.jpeg)
+
+Artist Heather Dewey-Hagborg creates portrait sculptures from analyses of genetic material collected in public places. Working with the traces strangers unwittingly leave behind, Dewey-Hagborg calls attention to the developing technology of forensic DNA phenotyping and the potential for a culture of biological surveillance. Designed as an exploratory project based on emerging science, the forecast of Stranger Visions has proved prescient. For an example of DNA phenotyping at work in forensics check out the companies Parabon NanoLabs and Identitas and read about their collaboration with the Toronto police. Also see Mark Shriver's research at Penn State on predicting faces from DNA.
+http://deweyhagborg.com/_archived/strangervisions/about.html
 
