@@ -43,7 +43,7 @@ http://deweyhagborg.com/_archived/strangervisions/about.html
 
 The Unseen Movie (2010) -- Ricardo O'Nascimento
 Adding the "shut down" time to the 24 blinks per minute we can conclude that one has 1,2 seconds of blindness per minute which, in a 70 years life, is approximately 21 days with no vision.
-![](https://github.com/ShuchenWuu/Slave-to-algorithm/blob/master/week%206/download.jpeg)
+![](https://github.com/ShuchenWuu/Slave-to-algorithm/blob/master/week%206/um.jpeg)
 
 In front, a monitor the user watches a movie. A camera on the top of the monitor is connected to a computer that tracks the eyes and detects when they blink. Every time the user blinks the image that appears at that moment is broadcasted in another monitor in real time.
 
