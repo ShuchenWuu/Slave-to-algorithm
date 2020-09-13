@@ -52,6 +52,8 @@ In front, a monitor the user watches a movie. A camera on the top of the monitor
 ## During the break
 Plan of my project
 ![](https://github.com/ShuchenWuu/Slave-to-algorithm/blob/master/week%206/Web%201920%20%E2%80%93%2013.png)
+
+Paper prototyoe
 ![](https://github.com/ShuchenWuu/Slave-to-algorithm/blob/master/week%206/ezgif.com-rotate.gif)
 ![](https://github.com/ShuchenWuu/Slave-to-algorithm/blob/master/week%206/Web%201920%20%E2%80%93%2011.png)
 ![](https://github.com/ShuchenWuu/Slave-to-algorithm/blob/master/week%206/Web%201920%20%E2%80%93%2014.png)
