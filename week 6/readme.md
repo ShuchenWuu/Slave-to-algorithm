@@ -52,12 +52,7 @@ In front, a monitor the user watches a movie. A camera on the top of the monitor
 ## During the break
 Plan of my project
 ![](https://github.com/ShuchenWuu/Slave-to-algorithm/blob/master/week%206/Web%201920%20%E2%80%93%2013.png)
-![](https://github.com/ShuchenWuu/Slave-to-algorithm/blob/master/week%206/IMB_nW3Ltk%202.GIF)
-<img id="https://github.com/ShuchenWuu/Slave-to-algorithm/blob/master/week%206/IMB_nW3Ltk%202.GIF" src="https://github.com/ShuchenWuu/Slave-to-algorithm/blob/master/week%206/IMB_nW3Ltk%202.GIF" rotate="90">
-</Title>
-<style>
-.rotate90 {
--webkit-transform:rotate(90deg);
--moz-transform: rotate(90deg);
-  <img src="https://github.com/ShuchenWuu/Slave-to-algorithm/blob/master/week%206/IMB_nW3Ltk%202.GIF" width="100" height="100" rotate="90"> </center> 
+
+<img id="https://github.com/ShuchenWuu/Slave-to-algorithm/blob/master/week%206/IMB_nW3Ltk%202.GIF" src="https://github.com/ShuchenWuu/Slave-to-algorithm/blob/master/week%206/IMB_nW3Ltk%202.GIF" rotate="270">
+
 
