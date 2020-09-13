@@ -53,4 +53,5 @@ In front, a monitor the user watches a movie. A camera on the top of the monitor
 Plan of my project
 ![](https://github.com/ShuchenWuu/Slave-to-algorithm/blob/master/week%206/Web%201920%20%E2%80%93%2013.png)
 ![](https://github.com/ShuchenWuu/Slave-to-algorithm/blob/master/week%206/IMB_nW3Ltk%202.GIF)
+<img id="https://github.com/ShuchenWuu/Slave-to-algorithm/blob/master/week%206/IMB_nW3Ltk%202.GIF" src="/image.png" rotate="90">
 
