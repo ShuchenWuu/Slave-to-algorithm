@@ -28,7 +28,7 @@ Going through what other artists/students’ website, I found that it does not n
 ## In-class Lecture
 
 EyeWriter - social design<br />
-![](https://github.com/ShuchenWuu/Slave-to-algorithm/blob/master/week%206/download.jpeg)
+![](https://github.com/ShuchenWuu/Slave-to-algorithm/blob/master/week%206/IMB_nW3Ltk%202.GIF)
 
 
 ## During the break
