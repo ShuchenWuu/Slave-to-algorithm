@@ -48,6 +48,12 @@ Adding the "shut down" time to the 24 blinks per minute we can conclude that one
 
 In front, a monitor the user watches a movie. A camera on the top of the monitor is connected to a computer that tracks the eyes and detects when they blink. Every time the user blinks the image that appears at that moment is broadcasted in another monitor in real time.
 
+## coding session
+We learn how to use sound as an input to create visuals. I have done similar experiments before the pitch preparation. However, I found that there are still things that I have to learn/practice. E.g. the order of the code, especially for the l0op part. I need to figure out the logic that runs in js so that the outcome meets my expectation.
+http://127.0.0.1:8458
+![](https://github.com/ShuchenWuu/Slave-to-algorithm/blob/master/week%206/Screen%20Shot%202020-09-17%20at%2018.16.34.png)
+
+
 
 ## During the break
 Plan of my project
