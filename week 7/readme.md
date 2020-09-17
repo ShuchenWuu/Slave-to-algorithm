@@ -85,14 +85,16 @@ END IF
 
 ## Pseudocode for my project (only for the generative part)
 
-IF value of slider 1 = x1; (min=2, max=8)
+IF value of slider 1 = x1; (min=2, max=8)<br />
 The sides of the shape drawing on the canvas is x1;
 
-IF value of slider 2 = x2; (min=10, max=50)
+IF value of slider 2 = x2; (min=10, max=50)<br />
 x2 added when the same character occur;
 
 IF value of slider 3 = x3; (min=1, max=26)
+<br />
 Let A=1, B=2…then Z=26;
+<br />
 Then the character that user choose is x3;
 
 IF value of slider 4 = R; (min=0, max=255);
