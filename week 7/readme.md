@@ -81,9 +81,8 @@ timer()
   Take out clothes
 
 END IF
+<br />
 
-<br />
-<br />
 ## Pseudocode for my project (only for the generative part)
 
 IF value of slider 1 = x1; (min=2, max=8)
