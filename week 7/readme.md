@@ -47,4 +47,31 @@ timer()
 
 END IF
 
+## Pseudocode for my project (only for the generative part)
+
+IF value of slider 1 = x1; (min=2, max=8)
+The sides of the shape drawing on the canvas is x1;
+
+IF value of slider 2 = x2; (min=10, max=50)
+x2 added when the same character occur;
+
+IF value of slider 3 = x3; (min=1, max=26)
+Let A=1, B=2…then Z=26;
+Then the character that user choose is x3;
+
+IF value of slider 4 = R; (min=0, max=255);
+IF value of slider 5 = G; (min=0, max=255);
+IF value of slider 6 = B; (min=0, max=255);
+The colour of the selected character is (R,G,B);
+
+IF “start” is pressed
+Speech to text
+
+INPUT ASCII chart(A=65,B=66,C=67,D=68), character;
+IF text = ABCD;
+line(65,66,67,68);
+
+OUTPUT drawing;
+
+
 
