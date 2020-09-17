@@ -12,7 +12,8 @@ github link mentioned: https://github.com/IDMNYU/p5.js-speech
 
 ## note/inspiration from "Precessing: A programming handbook for visual design and artists"
 ![](https://github.com/ShuchenWuu/Slave-to-algorithm/blob/master/week%206/IMG_0989.jpg)
-<img align="left" width="800" height="600" src="https://github.com/ShuchenWuu/Slave-to-algorithm/blob/master/week%206/IMG_0989.jpg">
+<img align="left" width="600" height="800" src="https://github.com/ShuchenWuu/Slave-to-algorithm/blob/master/week%206/IMG_0989.jpg">
+<br />
 
 ## Pseudocode
 Pseudocode often uses structural conventions of a normal programming language, but is intended for human reading rather than machine reading. It is easier for human to read, so the pseudocode that I create for my project, it's more like a note for me to process my code.
