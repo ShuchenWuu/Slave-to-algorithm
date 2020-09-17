@@ -97,19 +97,19 @@ Let A=1, B=2…then Z=26;
 <br />
 Then the character that user choose is x3;
 
-IF value of slider 4 = R; (min=0, max=255);
-IF value of slider 5 = G; (min=0, max=255);
-IF value of slider 6 = B; (min=0, max=255);
-The colour of the selected character is (R,G,B);
+IF value of slider 4 = R; (min=0, max=255);<br />
+IF value of slider 5 = G; (min=0, max=255);<br />
+IF value of slider 6 = B; (min=0, max=255);<br />
+The colour of the selected character is (R,G,B);<br />
 
-IF “start” is pressed
-Speech to text
+IF “start” is pressed<br />
+Speech to text<br />
 
-INPUT ASCII chart(A=65,B=66,C=67,D=68), character;
-IF text = ABCD;
-line(65,66,67,68);
+INPUT ASCII chart(A=65,B=66,C=67,D=68), character;<br />
+IF text = ABCD;<br />
+line(65,66,67,68);<br />
 
-OUTPUT drawing;
+OUTPUT drawing;<br />
 
 
 
