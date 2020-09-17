@@ -9,6 +9,7 @@ Paper prototyoe <br />
 github link mentioned: https://github.com/IDMNYU/p5.js-speech
 
 ![](https://github.com/ShuchenWuu/Slave-to-algorithm/blob/master/week%207/IMG_0376%202.jpg)
+<img align="left" width="800" height="600" src="https://github.com/ShuchenWuu/Slave-to-algorithm/blob/master/week%207/IMG_0376%202.jpg">
 <br />
 <br />
 ## note/inspiration from "Precessing: A programming handbook for visual design and artists"
