@@ -51,8 +51,6 @@ github link mentioned: https://github.com/IDMNYU/p5.js-speech
 ## Pseudocode
 Pseudocode often uses structural conventions of a normal programming language, but is intended for human reading rather than machine reading. It is easier for human to read, so the pseudocode that I create for my project, it's more like a note for me to process my code.
 
-For me, Pseudocode is something that is functioning as a good starting point; it helps with building up a frame/structure for my project.
-
 Activity that I have done during the class
 
 Laundry
@@ -86,6 +84,7 @@ END IF
 <br />
 
 ## Pseudocode for my project (only for the generative part)
+For me, Pseudocode is something that is functioning as a good starting point; it helps with building up a frame/structure for my project. And the sense of human language in it made me less fearful of starting.
 
 IF value of slider 1 = x1; (min=2, max=8)<br />
 The sides of the shape drawing on the canvas is x1;
