@@ -1,7 +1,9 @@
 This week we went through paper/digital prototypes that peers made. It is enjoyable to see how's everyone going, and a bit of pressure form the process to push me further. It is always good to know what others' are working on so that some valuable conversations could happen.
 
 ## Library & works
+Geomerative </br>
 http://www.ricardmarxer.com/geomerative/
+</br>
 Potential of this library
 ![]()
 ![]()
@@ -9,13 +11,13 @@ A tutorial that I find (find me some time to play around with this fab effect)
 
 P5.play
 https://joanneamarisa.github.io/DataVis/GARDEN/
-
+</br>
 machine learning
 https://ml5js.org/
-
+</br>
 3d in coding
 https://threejs.org/
-
+</br>
 
 ## Notable Works
 Paul Chan
@@ -42,6 +44,7 @@ https://idmnyu.github.io/p5.js-speech/examples/04simplerecognition.html
 In this tutorial, I learn some potential/direction of this library can do. And solve my problem can not keep the speech going while it is on live. 
 
 ## Process
+(does take more time than I expected to debug = drags me crazy sometimes)
 I tried to keep the text that I said (e.g., get each line of speech into an array), then I found I need to quickly comment on the line of functioning "runningText" lol.
 
 I tried to turn Character into charCode. It took me some time to debug because the result does not show on the canvas. This process made me better understand universal variables and local variables, where I declare it does matter! Sometimes I need to declare the variable in the local function and mention it before function setup as well.
