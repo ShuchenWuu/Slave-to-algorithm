@@ -40,9 +40,9 @@ Breath = soul?
 </br>
 "The oppressed" by Arthur Analts -created in response to black lives matter, the artwork visually and succinctly expresses the international civil rights movement's ongoing struggle.
 </br>
-![](https://github.com/ShuchenWuu/Slave-to-algorithm/blob/master/week%208/Screen%20Shot%202020-09-26%20at%2014.03.26.png)
+![](https://github.com/ShuchenWuu/Slave-to-algorithm/blob/master/week%208/111.jpg)
 </br>
-![](https://github.com/ShuchenWuu/Slave-to-algorithm/blob/master/week%208/Screen%20Shot%202020-09-26%20at%2014.03.33.png)
+![](https://github.com/ShuchenWuu/Slave-to-algorithm/blob/master/week%208/222.jpg)
 </br>
 This kinetic sculpture forms part of 'the breathing series' by Arthur Analts, which seeks to address serious issues artistically and colorfully. For this specific piece, the artist has enclosed 12 balloons inside a glass-topped box. all white apart from one, the balloons slowly inflate until there is no more space inside, leaving the single black balloon smaller in size, to become engulfed in white. 
 
