@@ -12,6 +12,7 @@ Potential of this library
 Tutoriasl that I find (find me some time to play around with this fab effect)
 https://www.youtube.com/watch?v=IthjKDGf7oQ
 </br>
+</br>
 https://www.youtube.com/watch?v=JdzBx43aN68
 
 P5.play
@@ -29,7 +30,9 @@ Paul Chan
 
 ![](https://github.com/ShuchenWuu/Slave-to-algorithm/blob/master/week%208/Screen%20Shot%202020-09-26%20at%2013.57.15.png)
 Paul Chan's "The Bather's Dilemma" 
+</br>
 Breathers
+</br>
 Breath = soul?
 </br>
 </br>
