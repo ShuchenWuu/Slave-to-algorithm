@@ -5,9 +5,13 @@ Geomerative </br>
 http://www.ricardmarxer.com/geomerative/
 </br>
 Potential of this library
-![]()
-![]()
-A tutorial that I find (find me some time to play around with this fab effect)
+![](https://github.com/ShuchenWuu/Slave-to-algorithm/blob/master/week%208/Screen%20Shot%202020-09-26%20at%2013.49.50.png)
+![](https://github.com/ShuchenWuu/Slave-to-algorithm/blob/master/week%208/Screen%20Shot%202020-09-26%20at%2013.50.11.png)
+</br>
+
+Tutoriasl that I find (find me some time to play around with this fab effect)
+https://www.youtube.com/watch?v=IthjKDGf7oQ
+https://www.youtube.com/watch?v=JdzBx43aN68
 
 P5.play
 https://joanneamarisa.github.io/DataVis/GARDEN/
@@ -21,9 +25,9 @@ https://threejs.org/
 
 ## Notable Works
 Paul Chan
-Paul Chan's "The Bather's Dilemma" at Greene Naftali, New York, 2019. Image courtesy of the artist and Greene Naftali, New York.
-![]()
-![]()
+
+![](https://github.com/ShuchenWuu/Slave-to-algorithm/blob/master/week%208/Screen%20Shot%202020-09-26%20at%2013.57.15.png)
+Paul Chan's "The Bather's Dilemma" 
 Breathers
 Breath = soul?
 
@@ -31,17 +35,19 @@ Related research
 "The oppressed" by Arthur Analts -created in response to black lives matter, the artwork visually and succinctly expresses the international civil rights movement's ongoing struggle.
 
 This kinetic sculpture forms part of 'the breathing series' by Arthur Analts, which seeks to address serious issues artistically and colorfully. For this specific piece, the artist has enclosed 12 balloons inside a glass-topped box. all white apart from one, the balloons slowly inflate until there is no more space inside, leaving the single black balloon smaller in size, to become engulfed in white. 
-![]()
-![]()
+![](https://github.com/ShuchenWuu/Slave-to-algorithm/blob/master/week%208/Screen%20Shot%202020-09-26%20at%2014.03.26.png)
+![](https://github.com/ShuchenWuu/Slave-to-algorithm/blob/master/week%208/Screen%20Shot%202020-09-26%20at%2014.03.33.png)
 
 
 
 ## Live coding section
 
 Interesting work shared with speech.p5 library
+</br>
 https://idmnyu.github.io/p5.js-speech/examples/04simplerecognition.html 
+</br>
 
-In this tutorial, I learn some potential/direction of this library can do. And solve my problem can not keep the speech going while it is on live. 
+In this tutorial, I learn some potential/direction of this library can do. And solve my problem can not keep the speech going while it is on live, really helps!!! Thanks Karen (hug)
 
 ## Process
 (does take more time than I expected to debug = drags me crazy sometimes)
