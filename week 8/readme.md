@@ -5,6 +5,7 @@ Geomerative </br>
 http://www.ricardmarxer.com/geomerative/
 </br>
 Potential of this library
+<img alt="WP Reliable Cookie Bar logo" src="https://github.com/ShuchenWuu/Slave-to-algorithm/blob/master/week%208/Screen%20Shot%202020-09-26%20at%2013.49.50.png" height="100" width="100" align="right">
 ![](https://github.com/ShuchenWuu/Slave-to-algorithm/blob/master/week%208/Screen%20Shot%202020-09-26%20at%2013.49.50.png)
 ![](https://github.com/ShuchenWuu/Slave-to-algorithm/blob/master/week%208/Screen%20Shot%202020-09-26%20at%2013.50.11.png)
 </br>
