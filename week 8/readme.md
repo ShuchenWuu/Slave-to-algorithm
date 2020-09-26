@@ -42,8 +42,9 @@ Breath = soul?
 <p align="center">
   <img src='https://github.com/ShuchenWuu/Slave-to-algorithm/blob/master/week%208/111.jpg'/>
 </p>
-![](https://github.com/ShuchenWuu/Slave-to-algorithm/blob/master/week%208/111.jpg | width=200)
-![](https://github.com/ShuchenWuu/Slave-to-algorithm/blob/master/week%208/222.jpg)
+<p align="center">
+  <img src='https://github.com/ShuchenWuu/Slave-to-algorithm/blob/master/week%208/222.jpg'/>
+</p>
 This kinetic sculpture forms part of 'the breathing series' by Arthur Analts, which seeks to address serious issues artistically and colorfully. For this specific piece, the artist has enclosed 12 balloons inside a glass-topped box. all white apart from one, the balloons slowly inflate until there is no more space inside, leaving the single black balloon smaller in size, to become engulfed in white. 
 
 
