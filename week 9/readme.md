@@ -38,5 +38,4 @@ I am following the plan that I had on week 6. However, I found that I can not se
 
 ### Changed plan
 - More modes of shapes. Could be ellipses, rectangles
-</br>
 - Creating a second canvas to save images and provide more freedom for the Drawing.
