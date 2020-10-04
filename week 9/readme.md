@@ -22,17 +22,18 @@ We did some exercise with sentence slice. Simple but elegant.
 </br>
 
 ## Process of my project
-Confine speech to text, text to charCode and charCode to Drawing. 
+1.Confine speech to text, text to charCode and charCode to Drawing. 
 knowledge gain:(parselnt()) takes integer only, in case the number of characters can not be divided by the algorithm
 
-The function of selecting a letter.
+2.The function of selecting a letter.
 Knowledge gain: return function—Specifies the value to be returned by a function. 
 
-Selecting colours for drawing
+3.Selecting colours for drawing
 
-Mode of Drawing (line, begin shape & end shape)
+4.Mode of Drawing (line, begin shape & end shape)
 I am following the plan that I had on week 6. However, I found that I can not see the massive difference between Shape with triangle and polygon.
 
 ### Changed plan
 More modes of shapes. Could be ellipses, rectangles
+</br>
 Creating a second canvas to save images and provide more freedom for the Drawing.
