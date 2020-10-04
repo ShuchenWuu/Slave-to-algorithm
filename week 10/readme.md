@@ -7,9 +7,9 @@ https://shuchenwuu.github.io/Slave-to-algorithm/Processing/sketch_beginShape/ind
 </br>
 Some questions that I had:
 </br>
--If it is possible to make a site that people can upload their drawings?
+- If it is possible to make a site that people can upload their drawings?
 </br>
--How to combine CSS, HTML, JS?
+- How to combine CSS, HTML, JS?
 - Need a hoster and space
 
 Manageable solution
