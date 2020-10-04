@@ -27,7 +27,11 @@ Stanley Kubrick 2001
 - second canvas
 - Save canvas
 - More modes of shapes
-- A front face of my system
+- A front face of my system, some context, instructions
+  Some interesting decorations using noise
 - A bit of hit/intro about boxes and sliders
 
 ### UI development
+![](https://github.com/ShuchenWuu/Slave-to-algorithm/blob/master/week%2010/Screen%20Shot%202020-10-03%20at%2020.57.09.png)
+![](https://github.com/ShuchenWuu/Slave-to-algorithm/blob/master/week%2010/Screen%20Shot%202020-10-04%20at%2000.27.18.png)
+![](https://github.com/ShuchenWuu/Slave-to-algorithm/blob/master/week%2010/Screen%20Shot%202020-10-04%20at%2013.51.30.png)
