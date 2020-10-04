@@ -35,3 +35,9 @@ Stanley Kubrick 2001
 ![](https://github.com/ShuchenWuu/Slave-to-algorithm/blob/master/week%2010/Screen%20Shot%202020-10-03%20at%2020.57.09.png)
 ![](https://github.com/ShuchenWuu/Slave-to-algorithm/blob/master/week%2010/Screen%20Shot%202020-10-04%20at%2000.27.18.png)
 ![](https://github.com/ShuchenWuu/Slave-to-algorithm/blob/master/week%2010/Screen%20Shot%202020-10-04%20at%2013.51.30.png)
+
+### The problem at the moment
+Probably mouseClick function doe snot fit my situation to link these two pages together because those two pages both have some lines that can not be moved from function setup. 
+Or…can I?
+
+I move these two drawings into one processing file hopefully could be solved by HTML level instead of JS?
