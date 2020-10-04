@@ -20,3 +20,19 @@ And Perlin noise, a class of random noise. Could be used for random lines. This 
 We did some exercise with sentence slice. Simple but elegant.
 ![](https://github.com/ShuchenWuu/Slave-to-algorithm/blob/master/week%209/Screen%20Shot%202020-10-04%20at%2015.15.28.png)
 </br>
+
+## Process of my project
+Confine speech to text, text to charCode and charCode to Drawing. 
+knowledge gain:(parselnt()) takes integer only, in case the number of characters can not be divided by the algorithm
+
+The function of selecting a letter.
+Knowledge gain: return function—Specifies the value to be returned by a function. 
+
+Selecting colours for drawing
+
+Mode of Drawing (line, begin shape & end shape)
+I am following the plan that I had on week 6. However, I found that I can not see the massive difference between Shape with triangle and polygon.
+
+### Changed plan
+More modes of shapes. Could be ellipses, rectangles
+Creating a second canvas to save images and provide more freedom for the Drawing.
