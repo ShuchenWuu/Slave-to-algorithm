@@ -34,6 +34,9 @@ Knowledge gain: return function—Specifies the value to be returned by a functi
 I am following the plan that I had on week 6. However, I found that I can not see the massive difference between Shape with triangle and polygon.
 
 ### Changed plan
+![](https://github.com/ShuchenWuu/Slave-to-algorithm/blob/master/week%209/week%209.png)
+
+### Changed plan
 More modes of shapes. Could be ellipses, rectangles
 </br>
 Creating a second canvas to save images and provide more freedom for the Drawing.
