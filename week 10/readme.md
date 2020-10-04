@@ -22,3 +22,12 @@ Apart from the practical issue, Andy had talked to me and suggested some fantast
 </br>
 Stanley Kubrick 2001
 
+## Process
+### Problem Solved
+- second canvas
+- Save canvas
+- More modes of shapes
+- A front face of my system
+- A bit of hit/intro about boxes and sliders
+
+### UI development
