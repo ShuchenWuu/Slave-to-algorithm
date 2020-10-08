@@ -67,3 +67,7 @@ fill(255);
   textFont("MonumentExtended-Regular");
     text('Click to Start',0,650,width);
 }
+
+function mouseClicked() {
+  window.location.href = "https://shuchenwuu.github.io/Slave-to-algorithm//Processing/sketch_newPage_FrameBlack_blue/";
+}
