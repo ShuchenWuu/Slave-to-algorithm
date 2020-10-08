@@ -275,7 +275,7 @@ fill(255);
           vertex(smallCanvas.x2, smallCanvas.y2);
           vertex(smallCanvas.x3, smallCanvas.y3);
           smallCanvas.endShape(CLOSE);
-          image(smallCanvas, windowWidth / 2 - 300, windowHeight / 2 - 170);
+          image(smallCanvas, windowWidth / 2 - 310, windowHeight / 2 - 180);
         } else {
           smallCanvas.strokeWeight(0.5);
           smallCanvas.stroke(225);
