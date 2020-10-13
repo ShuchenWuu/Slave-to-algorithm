@@ -404,5 +404,5 @@
 
   //fucntion save image
   function saveImage() {
-    saveCanvas(smallCanvas, 'myCanvas', 'jpg');
+    saveCanvas(smallCanvas, 'myEmotions', 'jpg');
   }
