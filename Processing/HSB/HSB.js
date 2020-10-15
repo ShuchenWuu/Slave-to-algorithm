@@ -31,8 +31,8 @@
     image(smallCanvas, windowWidth / 2, windowHeight / 2);
     
     //bigCanvas
-    bigCanvas = createGraphics(windowWidth, windowHeight);
-    image(bigCanvas, windowWidth / 2, windowHeight / 2);
+    //bigCanvas = createGraphics(windowWidth, windowHeight);
+    //image(bigCanvas, windowWidth / 2, windowHeight / 2);
 
     speechRec.onResult = showResult;
     speechRec.start(continuous, interim);
@@ -121,11 +121,11 @@
   }
 
   function draw() {
-    if(started==false){
- bigCanvas.background(50,30,100);
-        image(bigCanvas, windowWidth / 2, windowHeight / 2);
-        return;
-    }
+ //   if(started==false){
+ //bigCanvas.background(50,30,100);
+ //       image(bigCanvas, windowWidth / 2, windowHeight / 2);
+ //       return;
+ //   }
    
     
     colorMode(HSB);
