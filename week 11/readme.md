@@ -13,18 +13,19 @@ After consulting with Andy, he suggests choosing another typeface, which is not 
 ## Developing process
 
 I changed the colour mode and decided to use light blue, which is bright and healing since this system aims for emotional relief. By using HSB mode, I reduced the number of sliders that control colours. I set a darker Saturation and Brightness for background colour and lighter for lines. With one single slider, users can make rainbow colours.
+
 !()[]
 
 ### Typeface 
 Typeface trails for the system
 (I do struggle a lot with this part…)
-!()[https://github.com/ShuchenWuu/Slave-to-algorithm/blob/master/week%2011/readme.md]
+!()[https://github.com/ShuchenWuu/Slave-to-algorithm/blob/master/week%2011/type.png]
 
 
 ### Link two pages
 I did solve it with the third canvas! And understand the flexibility of p5, I learned that I could have two function setups and call it when needed. Graphics does not have a hide function; however, for other elements in setups/function draw, they have hide() & show(); just call them when needed.
 
+
+
 ### Hero image trails
 !()[]
-!()[]
-
