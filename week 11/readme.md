@@ -4,6 +4,11 @@ https://youtu.be/ERZyLN9UdhY 
 </br>
 Including hero image, UI, functions of the system at this stage
 
+Code:
+</br>
+https://github.com/ShuchenWuu/Slave-to-algorithm/tree/master/Processing/frontFace 
+ 
+
 I tried to combine the front page and the system using an HTML link. However, that link stands on the page, and I have no idea how to edit it lol.
 The solution at the moment is adding a URL into the mouse click function on the front page. The problem is that it takes time to load between those pages. 
 
