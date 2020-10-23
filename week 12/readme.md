@@ -32,3 +32,12 @@ With studies this semester, I gain a foundational level of coding skills; I know
 It is fascinating to see projects from my peers; we have some similarities to connect but so different in the end. I feel lucky to work with my peers as a community, share knowledge, and support each other.
 
 From the idea formed till now, I am proud of what I have developed, although there are still many imperfections. I had so many struggles in picking a workable plan and stick to it. My project is very close to the expectations that I set at the very beginning. I have learned so much from the beginning to now. I want to thank Karen, who helps me when I am having trouble working things out and giving me advice on making my fantasy happen. Andy, who has been providing advice on the design part of my project, appreciate the extra time and patience you give us.
+
+Links for future study
+
+https://threejs.org/ 
+
+https://www.openprocessing.org/sketch/845321
+https://www.openprocessing.org/sketch/982547
+https://www.openprocessing.org/sketch/914916
+https://www.openprocessing.org/sketch/555063
