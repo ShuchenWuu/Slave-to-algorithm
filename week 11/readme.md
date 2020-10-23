@@ -1,4 +1,4 @@
-My video presentation for week 11
+Video presentation for week 11
 
 https://youtu.be/ERZyLN9UdhY 
 </br>
@@ -30,3 +30,4 @@ I did solve it with the third canvas! And understand the flexibility of p5, I le
 
 ### Hero image trails
 ![](https://github.com/ShuchenWuu/Slave-to-algorithm/blob/master/week%2011/Screen%20Shot%202020-10-22%20at%2022.08.17.png)
+![](https://github.com/ShuchenWuu/Slave-to-algorithm/blob/master/week%2011/Screen%20Shot%202020-10-22%20at%2022.08.01.png)
