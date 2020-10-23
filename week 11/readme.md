@@ -1,6 +1,7 @@
 My video presentation for week 11
 
 https://youtu.be/ERZyLN9UdhY 
+</br>
 Including hero image, UI, functions of the system at this stage
 
 I tried to combine the front page and the system using an HTML link. However, that link stands on the page, and I have no idea how to edit it lol.
@@ -14,7 +15,7 @@ After consulting with Andy, he suggests choosing another typeface, which is not 
 
 I changed the colour mode and decided to use light blue, which is bright and healing since this system aims for emotional relief. By using HSB mode, I reduced the number of sliders that control colours. I set a darker Saturation and Brightness for background colour and lighter for lines. With one single slider, users can make rainbow colours.
 
-!()[]
+![](https://github.com/ShuchenWuu/Slave-to-algorithm/blob/master/week%2011/Screen%20Shot%202020-10-22%20at%2022.08.17.png)
 
 ### Typeface 
 Typeface trails for the system
