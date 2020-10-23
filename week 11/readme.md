@@ -24,7 +24,7 @@ Typeface trails for the system
 
 ### Link two pages
 I did solve it with the third canvas! And understand the flexibility of p5, I learned that I could have two function setups and call it when needed. Graphics does not have a hide function; however, for other elements in setups/function draw, they have hide() & show(); just call them when needed.
-
+1
 
 
 ### Hero image trails
