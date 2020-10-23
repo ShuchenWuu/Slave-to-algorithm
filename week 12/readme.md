@@ -1,5 +1,6 @@
 ## Week 12!
 </br>
+[GitHub](http://github.com)
 [Video of week 12 presentation](https://youtu.be/0ZzN-uvGXFc)
 </br>
 [Emotion Printer](https://youtu.be/0ZzN-uvGXFc)
