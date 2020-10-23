@@ -19,7 +19,7 @@ I changed the colour mode and decided to use light blue, which is bright and hea
 ### Typeface 
 Typeface trails for the system
 (I do struggle a lot with this part…)
-!()[https://github.com/ShuchenWuu/Slave-to-algorithm/blob/master/week%2011/type.png]
+![](https://github.com/ShuchenWuu/Slave-to-algorithm/blob/master/week%2011/type.png)
 
 
 ### Link two pages
