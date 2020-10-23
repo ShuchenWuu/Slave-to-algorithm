@@ -8,6 +8,7 @@
 
 ![](https://github.com/ShuchenWuu/Slave-to-algorithm/blob/master/week%2012/Shuchen_Wu_s3595719_WEB_GRAPHIC.gif)
 ![](https://github.com/ShuchenWuu/Slave-to-algorithm/blob/master/week%2012/graphs.gif| width=100)
+<img src="https://github.com/ShuchenWuu/Slave-to-algorithm/blob/master/week%2012/graphs.gif" width="600" height="300">
 
 ## Changes after week 12
 
