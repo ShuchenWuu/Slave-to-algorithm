@@ -10,9 +10,7 @@
 
 ## Changes after week 12
 
-Still struggling about how to style slider in p5, I did some HTML experiments but did not help. I only managed to style the height of the slider.
-
-I got feedback from week 12 that the text has been washed off, and also Andy suggested me to have a pattern background behind the frame.
+Still struggling about how to style slider in p5, I did some HTML experiments but did not help. I only managed to style the height of the slider. I got feedback from week 12 that the text has been washed off, and also Andy suggested me to have a pattern background behind the frame.
 
 Here is what I got now 
 [Emotion Printer version 2](https://shuchenwuu.github.io/Slave-to-algorithm//Processing/Emotion_Printer_line/)
